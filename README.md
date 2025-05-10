@@ -121,15 +121,15 @@
 ### Hardware Implementation
 <img src="IMG_5277.JPEG" width="50%" alt="Solar Panel and Sensor">
 
-*Configuración del panel solar y sensor de corriente WCS2702*
+*Vista frontal del prototipo y sus detalles de conexión*
 
 <img src="IMG_5278.JPEG" width="50%" alt="Display Interface">
 
-*Pantalla LCD mostrando mediciones en tiempo real*
+*Vista superior del prototipo y sus detalles de conexión
 
 <img src="IMG_5279.JPEG" width="50%" alt="Complete Setup">
 
-*Configuración completa de la estación meteorológica en funcionamiento*
+*Vista posterior del prototipo y sus detalles de conexión*
 
 ## Videos Demostrativos
 - `ws_field_test.MP4`: Demostración del medidor solar en condiciones de campo
