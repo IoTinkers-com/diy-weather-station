@@ -1,5 +1,10 @@
 # Solar Irradiation Meter - ESP32-C6 Connection Guide
 
+## Project Overview
+![Weather Station Prototype](IMG_5276.JPEG)
+*DIY Weather Station prototype with solar irradiation measurement*
+
+
 ## Hardware Components
 - ESP32-C6-DevKit1
 - WCS2702 Current Sensor
@@ -13,6 +18,12 @@
 - Cables de conexión
 
 ## Connection Diagram
+
+### Schematic
+![Connection Schematic](conection_schema.jpg)
+*Schematic diagram of the weather station connections*
+
+### ASCII Diagram
 
 ```
     +------------------+
@@ -109,6 +120,18 @@
 - Rango de medición:
   - Corriente: 0-300mA
   - Irradiación: 0-1000 W/m²
+
+## Project Gallery
+
+### Hardware Implementation
+![Solar Panel and Sensor](IMG_5277.JPEG)
+*Solar panel and WCS2702 current sensor setup*
+
+![Display Interface](IMG_5278.JPEG)
+*LCD display showing real-time measurements*
+
+![Complete Setup](IMG_5279.JPEG)
+*Complete weather station setup in operation*
 
 ## Videos Demostrativos
 - `ws_field_test.MP4`: Demostración del medidor solar en condiciones de campo
