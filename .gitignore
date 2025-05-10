@@ -1,0 +1,23 @@
+# Ignored folders
+Arduino/
+CAD/
+Circuit Diagram/
+Dxf/
+Renderings/
+Technical Plans/
+
+# Ignored files
+diy-portable-weather-station-1.snapshot.7.zip
+weather_station.fzz
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Development environment files
+.vscode/
+.idea/
+*.swp
+*.swo
