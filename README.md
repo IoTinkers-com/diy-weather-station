@@ -1,8 +1,9 @@
 # Solar Irradiation Meter - ESP32-C6 Connection Guide
 
 ## Project Overview
-![Weather Station Prototype](IMG_5276.JPEG)
-*DIY Weather Station prototype with solar irradiation measurement*
+<img src="IMG_5276.JPEG" width="50%" alt="Weather Station Prototype">
+
+*Prototipo de Estación Meteorológica DIY con medición de irradiación solar*
 
 
 ## Hardware Components
@@ -18,12 +19,6 @@
 - Cables de conexión
 
 ## Connection Diagram
-
-### Schematic
-![Connection Schematic](conection_schema.jpg)
-*Schematic diagram of the weather station connections*
-
-### ASCII Diagram
 
 ```
     +------------------+
@@ -124,14 +119,17 @@
 ## Project Gallery
 
 ### Hardware Implementation
-![Solar Panel and Sensor](IMG_5277.JPEG)
-*Solar panel and WCS2702 current sensor setup*
+<img src="IMG_5277.JPEG" width="50%" alt="Solar Panel and Sensor">
 
-![Display Interface](IMG_5278.JPEG)
-*LCD display showing real-time measurements*
+*Configuración del panel solar y sensor de corriente WCS2702*
 
-![Complete Setup](IMG_5279.JPEG)
-*Complete weather station setup in operation*
+<img src="IMG_5278.JPEG" width="50%" alt="Display Interface">
+
+*Pantalla LCD mostrando mediciones en tiempo real*
+
+<img src="IMG_5279.JPEG" width="50%" alt="Complete Setup">
+
+*Configuración completa de la estación meteorológica en funcionamiento*
 
 ## Videos Demostrativos
 - `ws_field_test.MP4`: Demostración del medidor solar en condiciones de campo
